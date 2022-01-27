@@ -1,0 +1,35 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+.footertekst {
+  color: whitesmoke;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navmenu {
+  display: flex;
+  flex-direction: row;
+  align-self: stretch;
+  margin: auto;
+}
+
+button {
+  border-style: double #b3efb2;
+  font-style: bold;
+  width: 80%;
+}
+
+img {
+  width: 80%;
+  height: 80%;
+}
